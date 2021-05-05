@@ -1,3 +1,4 @@
+SHOW databases;
 #OR
 SELECT 1 = 1 OR 1/0;
 SELECT true OR false AND false;
